@@ -109,7 +109,8 @@ int main() {
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d12c037c-947f-433f-8f19-3693e5acc99b)
+![image](https://github.com/user-attachments/assets/31365550-74cb-4897-80a0-8257ee1492c4)
+
 
 ## RESULT:
 The program for the RSA algorithm is executed successfully.
